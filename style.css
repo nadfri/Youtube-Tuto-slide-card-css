@@ -62,12 +62,12 @@ hr {
 	align-items: center;
 	background: linear-gradient(
 		129deg,
-		rgba(0, 0, 0, 1) 36%,
+		rgba(0, 0, 0, 1) 38%,
 		rgba(255, 255, 255, 1) 66%,
-		rgba(255, 255, 255, 1) 58%,
-		rgba(0, 0, 0, 1) 78%
-	   );
-	background-size: 300% 100%;
+		rgba(255, 255, 255, 1) 69%,
+		rgba(0, 0, 0, 1) 80%
+		  );
+	background-size: 250% 100%;
 
 	z-index: 1;
 }
